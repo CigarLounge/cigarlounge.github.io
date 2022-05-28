@@ -9,6 +9,10 @@ html, body {
     background-color: #121212;
 }
 
+footer {
+    background-color: #1e1e1e;
+}
+
 img {
     width: 100%;
     margin-bottom: 10px;
@@ -17,6 +21,8 @@ img {
 
 a:link, a:visited, a:active, .nav-link:link, .nav-link:visited, .nav-link:active { 
     color: #dc2834;
+    text-decoration: none;
+    transition: 0.2s;
 }
 
 a:hover, .nav-link:hover { 
