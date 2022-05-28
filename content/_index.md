@@ -1,19 +1,16 @@
 ---
 ---
 
-<div class="container">
-  <div class="row">
-    <div class="col">
-        TTT is a mafia-esque multiplayer game created using s&box
+<div class="container" style="padding: 30px 0px;">
+    <div class="row d-flex justify-content-center">
+        <div class="col col-sm-12 col-md-8 text-center" style="font-size: 3.5vw;">
+            TTT is a mafia-esque multiplayer game created using s&box
+        </div>
     </div>
-    <div class="col">
-      One of three columns
-    </div>
-  </div>
 </div>
 
-<img src="/images/11.png" style="width:100%; border-radius: 8px 8px 0px 0px;"/>
-<img src="/images/22.png" style="width:100%;"/>
-<img src="/images/3.png" style="width:100%;"/>
-<img src="/images/4.png" style="width:100%;"/>
-<img src="/images/5.png" style="width:100%; border-radius: 0px 8px 8px 0px;"/>
+<img src="/images/11.png"/>
+<img src="/images/22.png"/>
+<img src="/images/3.png"/>
+<img src="/images/4.png"/>
+<img src="/images/5.png"/>

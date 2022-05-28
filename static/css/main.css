@@ -9,8 +9,8 @@ html, body {
     background-color: #121212;
 }
 
-.main-card {
-    font-size: 3.5vw;
-    padding: 10px;
-    text-align: center;
+img {
+    width: 100%;
+    margin-bottom: 10px;
+    border-radius: 8px;
 }
