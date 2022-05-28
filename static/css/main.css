@@ -1,0 +1,16 @@
+@import url('https://fonts.googleapis.com/css?family=Poppins');
+
+* {
+    font-family: 'Poppins', sans-serif !important;
+    color: rgb(255, 255, 255);
+}
+
+html, body {
+    background-color: #121212;
+}
+
+.main-card {
+    font-size: 3.5vw;
+    padding: 10px;
+    text-align: center;
+}
