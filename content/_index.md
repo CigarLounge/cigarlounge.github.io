@@ -12,8 +12,8 @@
     </div>
 </div>
 
-<img src="/images/11.png"/>
-<img src="/images/4.png"/>
-<img src="/images/5.png"/>
-<img src="/images/22.png"/>
-<img src="/images/3.png"/>
+<img src="/images/screenshots/1.png"/>
+<img src="/images/screenshots/2.png"/>
+<img src="/images/screenshots/3.png"/>
+<img src="/images/screenshots/4.png"/>
+<img src="/images/screenshots/5.png"/>
