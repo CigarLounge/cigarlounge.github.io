@@ -7,6 +7,9 @@
             TTT is a mafia-esque multiplayer game created using s&box
         </div>
     </div>
+    <div class="d-flex justify-content-center">
+        <a href="https://github.com/sbox-TTT"><i class="fab fa-github"></i></a>
+    </div>
 </div>
 
 <img src="/images/11.png"/>
