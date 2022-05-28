@@ -1,12 +1,26 @@
-<header>
-  <nav class="navbar navbar-light">
-    <div class="container-fluid">
-      <a class="navbar-brand" href="#">
-        <div style="display: flex; align-items: center;">
-          <img src="/images/tttlogo.png" alt="" width="75" height="75" style="margin: 0px">
-          <div style="padding-left: 10px; font-size: 40px; font-weight: bold;">TTT</div>
+<div class="container">
+  <div class="row justify-content-center">
+    <div class="col">
+      <nav class="navbar navbar-expand">
+
+        <a class="navbar-brand" href="/">
+          <div style="display: flex; align-items: center;">
+            <img src="/images/tttlogo.png" alt="s&box TTT main logo" style="height: 60px; width: 60px; min-height: 60px; min-width: 60px; margin: 0px">
+            <div class="title">TTT</div>
+          </div>
+        </a>
+
+        <div class="navbar-collapse justify-content-end" id="navbarNavAltMarkup">
+          <div class="navbar-nav ml-auto">
+            {{ range .Site.Menus.main }}
+            <a class="nav-item nav-link" href="{{ .URL }}" style="font-size: 18px;">
+              {{ $text := print .Name | safeHTML }}
+              {{ $text }}
+            </a>
+            {{ end }}
+          </div>
         </div>
-      </a>
+      </nav>
     </div>
-  </nav>
-</header>
+  </div>
+</div>

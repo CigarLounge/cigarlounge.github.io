@@ -14,3 +14,24 @@ img {
     margin-bottom: 10px;
     border-radius: 8px;
 }
+
+a:link, a:visited, a:active, .nav-link:link, .nav-link:visited, .nav-link:active { 
+    color: #dc2834;
+}
+
+a:hover, .nav-link:hover { 
+    color: #ab1c26; 
+}
+
+.title {
+    display: inline-block;
+    padding-left: 10px; 
+    font-size: 40px; 
+    font-weight: bold;
+}
+
+@media screen and (max-width: 425px) {
+    .title {
+        display: none;
+    }
+}
