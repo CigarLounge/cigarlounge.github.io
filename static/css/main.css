@@ -29,6 +29,10 @@ a:hover, .nav-link:hover {
     color: #ab1c26; 
 }
 
+iframe {
+    padding-bottom: 10px;
+}
+
 .title {
     display: inline-block;
     padding-left: 10px; 
