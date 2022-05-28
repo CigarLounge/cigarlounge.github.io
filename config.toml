@@ -14,7 +14,3 @@ title = "s&box TTT"
         name = "Devblogs"
         url = "/devblogs/"
         weight = 1
-    [[menu.main]]
-        name = "Info"
-        url = "/info/"
-        weight = 2

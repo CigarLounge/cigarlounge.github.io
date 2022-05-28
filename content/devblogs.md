@@ -1,7 +1,7 @@
 ---
 ---
 
-<div class="container col-lg-12 col-xl-8">
+<div class="container col-md-12 col-xl-9">
 
 {{< youtube ZbfMRf_EaDU >}}
 {{< youtube uXp7CaxSTRE >}}
