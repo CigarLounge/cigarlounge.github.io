@@ -1,8 +1,13 @@
 @import url('https://fonts.googleapis.com/css?family=Poppins');
 
-* {
+*:not(i) {
     font-family: 'Poppins', sans-serif !important;
     color: rgb(255, 255, 255);
+}
+
+i {
+    font-size: 25px;
+    margin: 5px;
 }
 
 html, body {
