@@ -4,6 +4,6 @@
 
 TTT website created using [Hugo](https://gohugo.io/).
 
-https://sbox-ttt.github.io/
+https://cigarlounge.github.io/
 
 https://github.com/CigarLounge/sbox-TTT
