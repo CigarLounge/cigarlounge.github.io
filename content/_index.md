@@ -8,7 +8,7 @@
         </div>
     </div>
     <div class="d-flex justify-content-center" style="margin: 15px; display: grid; grid-column-gap: 20px;">
-        <a href="https://github.com/sbox-TTT/TTT"><i class="fab fa-github"></i></a>
+        <a href="https://github.com/CigarLounge/sbox-TTT"><i class="fab fa-github"></i></a>
         <a href="https://discord.gg/rrsrakF8N3"><i class="fab fa-discord"></i></a>
     </div>
 </div>
