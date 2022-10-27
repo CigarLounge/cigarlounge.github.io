@@ -24,13 +24,13 @@ img {
 }
 
 a:link, a:visited, a:active, .nav-link:link, .nav-link:visited, .nav-link:active { 
-    color: #dc2834;
+    color: #84aabd;
     text-decoration: none;
     transition: 0.2s;
 }
 
 a:hover, .nav-link:hover { 
-    color: #ab1c26; 
+    color: #607D8B; 
 }
 
 iframe {
